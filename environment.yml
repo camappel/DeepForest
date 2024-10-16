@@ -1,5 +1,17 @@
+name: deepforest
 channels:
   - conda-forge
 dependencies:
-  - python=3.10
-  - numpy
+  - python
+  - jupyter
+  - pooch
+  - py7zr
+  - intake
+  - intake-xarray
+  - scikit-image
+  - xmltodict
+  - opencv
+  - matplotlib
+  - pytorch
+  - torchvision
+  - huggingface_hub
